@@ -1,0 +1,17 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aman Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http2-express-bridge": "^1.0.7",
+    "morgan": "^1.10.0"
+  }
+}
